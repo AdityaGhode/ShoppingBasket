@@ -25,7 +25,7 @@ Kindly upload the code repository on GitHub and provide the details of the same.
 
 Example usage, Items in basket
 
-```js
+```ts
 const basket = [
   "Apple",
   "Apple",
@@ -39,4 +39,4 @@ const basket = [
   "Lime",
 ];
 ```
-To Run in VS code use command -  node .\shoppingBasketCalculator.js
+
